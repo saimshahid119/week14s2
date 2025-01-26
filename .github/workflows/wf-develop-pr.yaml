@@ -1,6 +1,6 @@
 name: wf-develop-pr
 on:
-  pull_request:
+  pull_requests:
     branches:
       - develop 
 jobs:
